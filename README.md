@@ -1,2 +1,2 @@
 # -YazdanInfo.github.io
-files for my github pages website
+% this project has moved to yazdaninfo/yazdaninfo.github.io %
